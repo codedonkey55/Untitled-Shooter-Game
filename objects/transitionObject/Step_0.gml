@@ -23,6 +23,9 @@ if(mode != transMode.off){
 			case transMode.restart:
 				game_restart();
 			break;
+			case transMode.roomRestart:
+				mode = transMode.intro;
+				room_restart();
 			default:
 		}
 	}

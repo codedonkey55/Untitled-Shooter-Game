@@ -12,6 +12,7 @@ enum transMode {
 	goto,
 	restart,
 	intro,
+	roomRestart,
 }
 
 percent = 1;

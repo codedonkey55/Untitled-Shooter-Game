@@ -71,6 +71,22 @@
             }
         },
         {
+            "Key": "1d2f4432-fff5-404d-a8f6-6f82f6336832",
+            "Value": {
+                "id": "4794e2a2-2f58-4ca8-81d4-733874b8ed92",
+                "resourcePath": "objects\\menuPlayerObject\\menuPlayerObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "208833ab-2685-4b88-8d59-6b8c604679b8",
+            "Value": {
+                "id": "566816f7-ef0b-4f24-9770-2289eafce454",
+                "resourcePath": "sprites\\lizardMaleDodgeSprite\\lizardMaleDodgeSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27df4e78-66a0-4774-8993-734b385ebfd9",
             "Value": {
                 "id": "9b33dcd7-0b53-40bc-a629-7a85ac675871",
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "462aed74-5efd-4ab5-a2be-4c694274b7e1",
+            "Value": {
+                "id": "a8585556-5c13-4198-a10e-d151f7401c4b",
+                "resourcePath": "paths\\menu2\\menu2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "4cc55412-e706-48cf-9cd3-9fd22adc135b",
             "Value": {
                 "id": "8da87cea-ec09-4967-9ad1-2a34b8530117",
@@ -236,6 +260,14 @@
                 "id": "7cb12c55-48f3-4207-b02d-57adc17b408c",
                 "resourcePath": "scripts\\menuController\\menuController.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "64c152b6-be8b-4812-a66e-18e7cd2a2b9c",
+            "Value": {
+                "id": "79bf8c59-e3bc-4b98-8dd6-3712fd7bba07",
+                "resourcePath": "sprites\\tutorial\\tutorial.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -314,7 +346,7 @@
             "Key": "85661471-9763-4fff-9d2c-78ff3b391abc",
             "Value": {
                 "id": "55463ec1-3343-45cf-a2d6-baeacdba4a0f",
-                "resourcePath": "sprites\\LizardMaleRunSprite\\LizardMaleRunSprite.yy",
+                "resourcePath": "sprites\\lizardMaleRunSprite\\lizardMaleRunSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -324,6 +356,14 @@
                 "id": "cea886ea-7a9a-47a1-b37f-f535f8ffbadc",
                 "resourcePath": "objects\\doorObject\\doorObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "93cd712c-7f64-4f0b-be8a-b7b007e14774",
+            "Value": {
+                "id": "3d64d209-4064-4a09-a5ff-841979340de4",
+                "resourcePath": "paths\\menu1\\menu1.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -487,6 +527,14 @@
             }
         },
         {
+            "Key": "c7a8692e-69f3-4949-b472-1923b49aa1c5",
+            "Value": {
+                "id": "cace50b8-6a7d-49ea-a874-81c81f9ed0fc",
+                "resourcePath": "rooms\\theEnd\\theEnd.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c8641bab-69b6-4067-a652-29249016eb3e",
             "Value": {
                 "id": "fb4a8cc9-b8ee-411f-95b5-586d11e044f6",
@@ -524,6 +572,14 @@
                 "id": "09dfb29f-9706-4624-962e-35ef6ce47fa4",
                 "resourcePath": "objects\\leverObject\\leverObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e6af24a3-c49c-4f69-96b0-dffbf7670f16",
+            "Value": {
+                "id": "5c1bc35f-18f9-456a-bbe1-7f2506f8ba2c",
+                "resourcePath": "sprites\\title\\title.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -575,11 +631,27 @@
             }
         },
         {
+            "Key": "f68c8d2d-6f6b-48ed-8e29-56bd7c03d5b4",
+            "Value": {
+                "id": "82633c22-088b-4e62-891c-4a203be9701a",
+                "resourcePath": "objects\\menuDemonObject\\menuDemonObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f7284996-62c6-4fee-96d0-6d289bbacf33",
             "Value": {
                 "id": "52d1e836-9795-436c-a7f4-36039e211a0d",
                 "resourcePath": "views\\f7284996-62c6-4fee-96d0-6d289bbacf33.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f74e24cc-dadb-42a5-8c1a-48d4a6bfb127",
+            "Value": {
+                "id": "e168c086-2d19-4e0e-aaff-e49b3ba50dd1",
+                "resourcePath": "sprites\\endGame\\endGame.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -3,7 +3,8 @@
 image_angle = point_direction(x,y,mouse_x, mouse_y);
 firingdelay--;
 recoil = max(0, recoil - 1);
-if(mouse_check_button(mb_left)) && (firingdelay < 0){
+if(mouse_check_button(mb_left)) && (firingdelay < 0) && (ammo > 0){
+	ammo--;
 	recoil = 4;
 	firingdelay = 10;
 	bullet = instance_create_layer(x,y,"bulletInstance", bulletObject);

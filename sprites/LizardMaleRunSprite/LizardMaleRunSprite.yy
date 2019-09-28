@@ -2,7 +2,7 @@
     "id": "85661471-9763-4fff-9d2c-78ff3b391abc",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "LizardMaleRunSprite",
+    "name": "lizardMaleRunSprite",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -120,9 +120,9 @@
             "visible": true
         }
     ],
-    "origin": 4,
-    "originLocked": false,
-    "playbackSpeed": 15,
+    "origin": 9,
+    "originLocked": true,
+    "playbackSpeed": 6,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
     "sepmasks": false,
@@ -132,5 +132,5 @@
     "type": 0,
     "width": 16,
     "xorig": 8,
-    "yorig": 14
+    "yorig": 23
 }
