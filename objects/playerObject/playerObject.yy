@@ -81,7 +81,50 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "1c2cc98e-4279-455a-a7cf-e07e77728b18",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "False",
+            "varName": "bossRoom",
+            "varType": 3
+        },
+        {
+            "id": "d2849ff8-8b8d-443e-8b58-7cfebd084d3f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "unlimitedAmmo",
+            "varType": 3
+        },
+        {
+            "id": "187312c3-11e5-4b73-b796-b9ebdb9bcdf0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "unlimitedDodge",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "ee7891f8-8a8b-4029-9b93-09f595c6935e",
     "visible": true

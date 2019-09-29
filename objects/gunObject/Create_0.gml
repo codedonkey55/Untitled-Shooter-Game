@@ -4,3 +4,5 @@ firingdelay = 0;
 recoil = 0;
 ammo = 3;
 maxammo = 3;
+
+allowShooting = false;

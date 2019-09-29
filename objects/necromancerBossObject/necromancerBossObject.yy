@@ -1,0 +1,111 @@
+{
+    "id": "f9eb35ac-0819-45c7-905d-cd8fcf7261f7",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "necromancerBossObject",
+    "eventList": [
+        {
+            "id": "50ad6b2f-4d1e-42b4-b060-0c4ddf91a2ae",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "f9eb35ac-0819-45c7-905d-cd8fcf7261f7"
+        },
+        {
+            "id": "db20518c-401b-4d4e-b2dd-443f3c8cd887",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 64,
+            "eventtype": 8,
+            "m_owner": "f9eb35ac-0819-45c7-905d-cd8fcf7261f7"
+        },
+        {
+            "id": "9131cf57-dd09-4ea8-9329-1d0711da1aa6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "9f66d343-1201-4a7b-ba49-14db4a541f8b",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f9eb35ac-0819-45c7-905d-cd8fcf7261f7"
+        },
+        {
+            "id": "c39757c0-4c5b-4271-b2da-b6a5d6209461",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "f9eb35ac-0819-45c7-905d-cd8fcf7261f7"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "d3fe470d-66b8-4093-a885-0b193da6b1df",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "followPath",
+            "varType": 3
+        },
+        {
+            "id": "c7cbd29a-facf-46be-846c-0116ba1e8899",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "level3NecromancerPath",
+            "varName": "pathToFollow",
+            "varType": 5
+        },
+        {
+            "id": "b13e9459-ac71-45cd-8936-3ee52e3d3104",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "25",
+            "varName": "maxhp",
+            "varType": 1
+        }
+    ],
+    "solid": false,
+    "spriteId": "95ccc6ab-5932-4322-96a5-22a4679c5f7f",
+    "visible": true
+}

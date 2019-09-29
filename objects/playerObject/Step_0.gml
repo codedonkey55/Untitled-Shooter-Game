@@ -13,8 +13,31 @@ if(instance_exists(bigDemonObject)) && (place_meeting(x, y, bigDemonObject)){
 	}
 }
 
-if(mouse_check_button(mb_right)) && (dodgeAmount > 0){
-	dodgeAmount--;
-	isDodging = true;
-	isWalking = false;
+if(instance_exists(orcObject)) && (place_meeting(x, y, orcObject)){
+	if(!isDodging){
+		path_end();
+		slideTransition(transMode.roomRestart);
+	}
 }
+
+if(instance_exists(spikeObject)) && (place_meeting(x, y, spikeObject)){
+	if(!isDodging){
+		path_end();
+		slideTransition(transMode.roomRestart);
+	}
+}
+
+if(instance_exists(skeletonObject)) && (place_meeting(x, y, skeletonObject)){
+	if(!isDodging){
+		path_end();
+		slideTransition(transMode.roomRestart);
+	}
+}
+
+if(moveStraightToEndEvent){
+	path_end();
+	if(!place_meeting(x,y,endEvent)){
+		move_towards_point(endEvent.x,endEvent.y,2);
+	}
+}
+
