@@ -18,6 +18,7 @@ if(mode != transMode.off){
 			break;
 			case transMode.goto:
 				mode = transMode.intro;
+				show_debug_message(target)
 				room_goto(target);
 			break;
 			case transMode.restart:

@@ -1,7 +1,7 @@
 ///@arg mode
 ///@arg targetroom optional
 
-transitionObject.mode = argument0;
+transitionObject.mode = argument[0];
 if(argument_count > 1){
-	target = argument[1];
+	transitionObject.target = argument[1];
 }

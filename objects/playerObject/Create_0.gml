@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
+
 enum playerSprite {
 	idle,
 	run,
@@ -19,6 +21,7 @@ enum rooms {
 	room4,
 	room5,
 	room6,
+	room7,
 	theEnd,
 }
 
@@ -28,6 +31,7 @@ path_array[rooms.room3] = level1;
 path_array[rooms.room4] = level2;
 path_array[rooms.room5] = level2;
 path_array[rooms.room6] = level3;
+path_array[rooms.room7] = level4;
 
 pathSpeed = 2;
 pathAction = path_action_stop;

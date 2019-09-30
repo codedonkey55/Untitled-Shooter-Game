@@ -18,12 +18,13 @@ menuCommitted = -1;
 menuOptions = [
 	"Exit Game",
 	"Options",
-	"Start Game",
+	"Continue",
+	"Start New Game",
 ];
 
 menuCursor = array_length_1d(menuOptions)-1;
 
-menuTop = menuY-((menuItemHeight*2)*array_length_1d(menuOptions));
+menuTop = menuY-((menuItemHeight*1.5)*array_length_1d(menuOptions));
 
 menuColor = c_gray;
 menuBGColor = c_black;

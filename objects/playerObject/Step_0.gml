@@ -34,6 +34,13 @@ if(instance_exists(skeletonObject)) && (place_meeting(x, y, skeletonObject)){
 	}
 }
 
+if(instance_exists(icicleObject)) && (place_meeting(x, y, icicleObject)){
+	if(!isDodging) && (icicleObject.image_index >= 6) && (icicleObject.image_index <= 8){
+		path_end();
+		slideTransition(transMode.roomRestart);
+	}
+}
+
 if(moveStraightToEndEvent){
 	path_end();
 	if(!place_meeting(x,y,endEvent)){
