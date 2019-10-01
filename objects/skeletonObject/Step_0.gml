@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if(instance_exists(playerObject)) && (!waitForEvent){
-	move_towards_point(playerObject.x, playerObject.y,2.2);
+	move_towards_point(playerObject.x, playerObject.y,2.1);
 	sprite_index = skeletonRunSprite;
 }
 

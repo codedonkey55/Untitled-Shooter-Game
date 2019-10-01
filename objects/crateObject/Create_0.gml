@@ -14,4 +14,9 @@ explosion_sprite[explosionSprites.vertical] = verticalExplosionSprite;
 explosion_sprite[explosionSprites.vortex] = roundVortexSprite;
 explosion_sprite[explosionSprites.roundExplosion] = roundExplosionSprite;
 
-randomize();
+explosion_sound[explosionSprites.explosion] = Explosive_2;
+explosion_sound[explosionSprites.verticalSmall] = Explosive;
+explosion_sound[explosionSprites.vertical] = Explosive;
+explosion_sound[explosionSprites.vortex] = Explosive_2;
+explosion_sound[explosionSprites.roundExplosion] = Explosive_2;
+

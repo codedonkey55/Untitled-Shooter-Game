@@ -7,4 +7,6 @@ if(hp < 1){
 	instance_destroy(enemySpawner);
 	playerObject.moveStraightToEndEvent = true;
 	playerObject.customEnd = true;
+	var cloud = instance_create_layer(x,y,"objectInstance",deathCloudObject);
+	cloud.coinAmount = 25;
 }

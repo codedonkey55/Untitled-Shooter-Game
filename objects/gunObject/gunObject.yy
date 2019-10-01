@@ -5,16 +5,6 @@
     "name": "gunObject",
     "eventList": [
         {
-            "id": "7b09fda7-8132-4872-a694-2185918c6aa7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "c45efbe7-c5eb-4e98-bba5-f5a1f5a2dd12"
-        },
-        {
             "id": "b119b0a4-cead-47bf-944c-0af4428321ed",
             "modelName": "GMEvent",
             "mvc": "1.0",

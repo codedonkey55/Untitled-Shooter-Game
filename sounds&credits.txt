@@ -1,0 +1,42 @@
+menu choose option
+menu change option
+player walking
+player dodging
+player dying --done
+player hit --done
+gun shoot  --done
+gun empty
+bullet hit wall
+bullet bounce off shield
+enemy dying
+small enemy walking
+big enemy walking
+necromancer laugh --done
+necromancer summon
+necromancer dying --done
+spike trap activate
+icicle crash
+crate breaks
+explosions (2/5)
+coin receive --done
+lever switch
+door open
+door close
+
+
+
+
+
+background music
+background sounds
+
+
+
+0x72 dungeon   --tileset https://0x72.itch.io/dungeontileset-ii
+edermunizz     --pixel forest https://edermunizz.itch.io/free-pixel-art-forest
+grumpydiamond  --water tiles https://grumpydiamond.itch.io/water-tiles
+untiedgames    --explosions https://untiedgames.itch.io/five-free-pixel-explosions
+stealthix      --fireballs https://stealthix.itch.io/animated-fires
+shaun spalding
+heartbeast
+plaguechamp

@@ -54,3 +54,7 @@ dodgeDelay = 0;
 hasPathStarted = false;
 moveStraightToEndEvent = false;
 customEnd = false;
+
+hasPlayedHitSound = false;
+
+coinsGained = 0;

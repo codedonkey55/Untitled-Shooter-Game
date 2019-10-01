@@ -12,6 +12,9 @@ if(mouse_check_button(mb_left)) && (firingdelay < 0) && (ammo > 0) && (allowShoo
 	bullet = instance_create_layer(x,y,"bulletInstance", bulletObject);
 	bullet.direction = image_angle;
 	bullet.image_angle = bullet.direction;
+	screenShake(2,10);
+	audio_sound_pitch(gunShotSound,random_range(0.9,1.1));
+	audio_play_sound(gunShotSound, 2, false);
 }
 
 x -= lengthdir_x(recoil, image_angle);
