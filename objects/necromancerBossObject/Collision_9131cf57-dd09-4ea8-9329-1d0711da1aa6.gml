@@ -9,4 +9,6 @@ if(hp < 1){
 	playerObject.customEnd = true;
 	var cloud = instance_create_layer(x,y,"objectInstance",deathCloudObject);
 	cloud.coinAmount = 25;
+	audio_sound_pitch(necromancerDeath10, 0.6);
+	audio_play_sound(necromancerDeath10, 2, false);
 }

@@ -63,6 +63,22 @@
             }
         },
         {
+            "Key": "08c4a44a-8c7a-48c5-b957-b181cd4f702e",
+            "Value": {
+                "id": "98dc1c9a-70ae-4306-91df-7fe2a49034d6",
+                "resourcePath": "datafiles_yy\\Enemy Death 3.m4a.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "0b5b6723-0984-4d8e-a4fd-1f511b04dceb",
+            "Value": {
+                "id": "ce465011-4c04-4e73-99c4-da77e05c7358",
+                "resourcePath": "views\\0b5b6723-0984-4d8e-a4fd-1f511b04dceb.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0fa07441-6b7d-411a-8bdd-3c0f94406941",
             "Value": {
                 "id": "42f93530-eba9-4f1f-ae7f-f988a1c0ab18",
@@ -71,11 +87,19 @@
             }
         },
         {
-            "Key": "10ec6c34-4932-4010-a77f-1475dd432da4",
+            "Key": "12e3021d-86b3-4acb-809c-1b7b6d6e5e2f",
             "Value": {
-                "id": "a74fa528-7b3c-4566-a5f6-e091f0bf0846",
-                "resourcePath": "sounds\\NecroDeath_1\\NecroDeath_1.yy",
+                "id": "19463a2d-6a85-4845-9c54-e95981e498b2",
+                "resourcePath": "sounds\\Door_Close\\Door_Close.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "1335b400-a9f9-4541-a243-80858214c7b8",
+            "Value": {
+                "id": "38fc1e2b-ccdf-4692-9741-5811ab3d3e86",
+                "resourcePath": "datafiles_yy\\Main menu switch 2.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -103,11 +127,11 @@
             }
         },
         {
-            "Key": "18c47874-a4e1-4889-9e22-49da85e7fa02",
+            "Key": "16127c02-2aa8-4df8-8e53-0f897e0e9a3d",
             "Value": {
-                "id": "65eeff68-b8a3-4bbd-8e70-30a48bf737b9",
-                "resourcePath": "sounds\\Coin_2\\Coin_2.yy",
-                "resourceType": "GMSound"
+                "id": "0eb0e2b3-1875-4f76-afcd-acbd1bfd8711",
+                "resourcePath": "datafiles_yy\\Walk 5.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -167,14 +191,6 @@
             }
         },
         {
-            "Key": "23a87850-95a6-4bc5-bf39-fc3f214fcfc6",
-            "Value": {
-                "id": "7a2074de-f17d-4878-9fa0-91cc0ff8e093",
-                "resourcePath": "sounds\\NecroDeath_5\\NecroDeath_5.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "24d94a64-f5aa-4442-b4f2-78f8c034ffea",
             "Value": {
                 "id": "41d9ad84-da67-4855-bff6-0876934ae5e8",
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "2e8cac54-7a1b-4f1d-aa18-995265ab0876",
+            "Value": {
+                "id": "0ce54041-1dcd-4b47-b043-265a92b4367d",
+                "resourcePath": "datafiles_yy\\Enemy Death 7.m4a.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "2f3795ae-7788-4c2f-8b98-7272a5960a1b",
             "Value": {
                 "id": "60c8752a-47f6-48b9-b98c-32f6c6ba2fe5",
@@ -255,6 +279,14 @@
             }
         },
         {
+            "Key": "3097ca82-ad29-433d-b6d8-476a600b586c",
+            "Value": {
+                "id": "66e8ff02-7536-45a5-8e02-b52b0cb84215",
+                "resourcePath": "datafiles_yy\\Main menu 1.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "31746c3e-bc66-45c1-954a-47d837660b2f",
             "Value": {
                 "id": "f448d059-5abc-470e-8afb-8716ed99d684",
@@ -271,10 +303,18 @@
             }
         },
         {
-            "Key": "32d80207-5bdc-40d3-b7b0-d921d254b231",
+            "Key": "3298e4e2-cc82-4e0f-b12e-01b8c93adb90",
             "Value": {
-                "id": "2e8fc42b-edbe-4c9a-9f2a-017b84a8428b",
-                "resourcePath": "sounds\\Laugh_2\\Laugh_2.yy",
+                "id": "c66c8c08-d4f8-4da8-826a-6d6fa10e5ed4",
+                "resourcePath": "sounds\\Main_menu_switch\\Main_menu_switch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "32f3234e-c397-4a6e-bba4-12955708bde8",
+            "Value": {
+                "id": "5a051171-dd9c-4127-b0e4-ce82809c4418",
+                "resourcePath": "sounds\\Player_Hit_6\\Player_Hit_6.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -300,14 +340,6 @@
                 "id": "40ce6dfd-0b77-49b4-999e-9d3b3963c697",
                 "resourcePath": "objects\\playerObject\\playerObject.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "3d75a8ba-311d-4e98-8f51-0aca7135a213",
-            "Value": {
-                "id": "a87a52f2-aad1-4b19-a672-004c0a98727d",
-                "resourcePath": "sounds\\Player_Hit_2\\Player_Hit_2.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -375,19 +407,27 @@
             }
         },
         {
-            "Key": "46fe6c10-9373-4cba-888c-f6299a311b64",
-            "Value": {
-                "id": "1e12ce0a-5846-4964-aa17-5d4a1aed63ba",
-                "resourcePath": "sounds\\NecroDeath_7\\NecroDeath_7.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "489110e7-3fa8-4dcc-a576-c1ec8f2ee119",
             "Value": {
                 "id": "487f0e6f-273c-448f-98e5-a4d5d1482ab1",
                 "resourcePath": "scripts\\resetRoom\\resetRoom.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "49c49fbc-66e6-4344-b971-cd423e0449d8",
+            "Value": {
+                "id": "a9103bc2-7512-4d95-ae53-d36b094ac4e4",
+                "resourcePath": "datafiles_yy\\Walk 7.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "4c3bc0ce-80fa-423d-a336-2c00d915460a",
+            "Value": {
+                "id": "aa2cdcb7-353b-4962-9b97-1dfaba257ed7",
+                "resourcePath": "sounds\\Enemy_Death_6\\Enemy_Death_6.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -412,14 +452,6 @@
                 "id": "58ba0517-fae1-4af7-84c8-904b568ed45d",
                 "resourcePath": "objects\\skeletonObject\\skeletonObject.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "52008e36-9ee7-4ea5-999a-14c6e1fad850",
-            "Value": {
-                "id": "83a905af-42bd-4bff-adf7-7dd4247b50a6",
-                "resourcePath": "sounds\\NecroDeath_9\\NecroDeath_9.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -471,6 +503,14 @@
             }
         },
         {
+            "Key": "58674402-1358-42a1-b939-80a14d4f2dac",
+            "Value": {
+                "id": "9ebe4922-48d1-4a82-9910-f1b7cfca0e18",
+                "resourcePath": "datafiles_yy\\Main menu 2.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "5a5e98a6-63b5-4006-bd47-ff27fc7702c2",
             "Value": {
                 "id": "d5d8d3fb-6c89-4ae4-89aa-434ad110e60f",
@@ -511,6 +551,14 @@
             }
         },
         {
+            "Key": "63235796-d0df-4f52-95e8-5656556870b3",
+            "Value": {
+                "id": "94557175-f0a3-4a21-ae0f-2c7dd06fa21e",
+                "resourcePath": "datafiles_yy\\Walk 3.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "63390198-5e14-4b17-9886-6ed89cbe746c",
             "Value": {
                 "id": "7cb12c55-48f3-4207-b02d-57adc17b408c",
@@ -519,19 +567,19 @@
             }
         },
         {
-            "Key": "64953fb6-d807-4dca-95e1-1fb6835a5340",
-            "Value": {
-                "id": "f5d11e8a-2335-43b0-b1c6-ee98c44024cc",
-                "resourcePath": "sounds\\Player_Hit_1\\Player_Hit_1.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "64c152b6-be8b-4812-a66e-18e7cd2a2b9c",
             "Value": {
                 "id": "79bf8c59-e3bc-4b98-8dd6-3712fd7bba07",
                 "resourcePath": "sprites\\tutorial\\tutorial.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6943e7c1-dd4d-4d8f-b125-6625aa9ebdab",
+            "Value": {
+                "id": "a48ccc6e-e4d9-4c9a-b80a-e80a54105629",
+                "resourcePath": "datafiles_yy\\Main menu switch.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -575,11 +623,11 @@
             }
         },
         {
-            "Key": "74af4e5a-5e51-4d21-be47-2688a58fe984",
+            "Key": "72eaafe1-50f9-463a-9d71-c115d37c1f5d",
             "Value": {
-                "id": "0edefaf8-3606-4f82-8163-918ae1f93e99",
-                "resourcePath": "sounds\\NecroDeath_3\\NecroDeath_3.yy",
-                "resourceType": "GMSound"
+                "id": "60722af6-0092-4d40-811a-7709fcdfc996",
+                "resourcePath": "datafiles_yy\\Main menu switch 3.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -631,14 +679,6 @@
             }
         },
         {
-            "Key": "7b727421-e6ee-41f2-8895-8dd28d225d12",
-            "Value": {
-                "id": "b8ed6357-38c6-4d99-9bac-a992835d6c13",
-                "resourcePath": "sounds\\Player_Hit\\Player_Hit.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "7c021baf-b6bd-4c82-8197-10337dc5f6b3",
             "Value": {
                 "id": "d2432161-6030-45a3-a95f-c057d385bcc7",
@@ -671,6 +711,14 @@
             }
         },
         {
+            "Key": "816ebcbc-575e-4632-a795-64c575617ab6",
+            "Value": {
+                "id": "b5adfae2-b303-4666-93a0-12d1f4d59d31",
+                "resourcePath": "sounds\\Gun_Empty\\Gun_Empty.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "81d27cee-04a0-42a8-b04d-e914dd9a615a",
             "Value": {
                 "id": "ea717811-9f4a-4d51-9818-277105bf299c",
@@ -695,14 +743,6 @@
             }
         },
         {
-            "Key": "8731f20e-1f59-430c-a4ce-532c92a8c7c0",
-            "Value": {
-                "id": "ae014d5e-77bb-4cb7-b9ce-02e0209f6ba7",
-                "resourcePath": "sounds\\NecroDeath_2\\NecroDeath_2.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "874e9681-d3ef-46f1-8a7e-173db6dc1d3d",
             "Value": {
                 "id": "9b51f0f8-9a73-4c28-96d6-645a81ddb649",
@@ -716,14 +756,6 @@
                 "id": "cdcb24ae-32de-4963-8ac3-8c2f5480ca27",
                 "resourcePath": "sprites\\waterSprite\\waterSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "884dc8ff-74f0-4667-b1a2-7e9dc92d5f48",
-            "Value": {
-                "id": "70a828ae-0daa-458d-9f34-ea99374a51c3",
-                "resourcePath": "sounds\\NecroDeath_6\\NecroDeath_6.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -743,11 +775,11 @@
             }
         },
         {
-            "Key": "905fc429-488e-40de-91c4-22c972b6d8cd",
+            "Key": "8f2a491a-9e26-48a0-bb8c-6a86a9d385f7",
             "Value": {
-                "id": "70469ede-ef5c-4b7e-abf3-7c08245bfacf",
-                "resourcePath": "sounds\\Player_Hit_4\\Player_Hit_4.yy",
-                "resourceType": "GMSound"
+                "id": "d7cf6b91-c78a-4eac-983d-674efa687e1b",
+                "resourcePath": "datafiles_yy\\Main menu 3.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -759,11 +791,27 @@
             }
         },
         {
+            "Key": "9340a0ae-36c2-4bdf-a903-e0267b0baf26",
+            "Value": {
+                "id": "4ffe82e7-c6da-4ee8-8dbc-c8aa819d3966",
+                "resourcePath": "sounds\\mushroombaby\\mushroombaby.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "93cd712c-7f64-4f0b-be8a-b7b007e14774",
             "Value": {
                 "id": "3d64d209-4064-4a09-a5ff-841979340de4",
                 "resourcePath": "paths\\menu1\\menu1.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "94c2621c-ca4f-4928-ba94-0f2791391cbf",
+            "Value": {
+                "id": "5b904dd8-1145-463b-9c57-459f08e8b94d",
+                "resourcePath": "datafiles_yy\\Gun Empty.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -791,11 +839,11 @@
             }
         },
         {
-            "Key": "9915a352-3d45-4340-bda4-fcbd38ac0ca6",
+            "Key": "99d470c3-42f0-4593-8f0b-694177dc3087",
             "Value": {
-                "id": "612ca34f-4430-41f7-886f-2d67b0c6aee6",
-                "resourcePath": "sounds\\Player_Hit_3\\Player_Hit_3.yy",
-                "resourceType": "GMSound"
+                "id": "cca64bca-06bd-4108-8dd0-e24865520507",
+                "resourcePath": "datafiles_yy\\Walk 1.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -828,6 +876,14 @@
                 "id": "08cb01e2-fd85-4836-8d5d-b632109db071",
                 "resourcePath": "objects\\collisionObject\\collisionObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a18261a4-7a9b-49cf-af5e-a929c61caf0d",
+            "Value": {
+                "id": "bc1f003f-b8ed-428a-a2fc-95f9ae0cd6ca",
+                "resourcePath": "datafiles_yy\\Enemy Death 2.m4a.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -900,6 +956,14 @@
                 "id": "e5be4c5a-6790-4ef3-812c-439deddc4587",
                 "resourcePath": "sprites\\fireballSprite\\fireballSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1986946-6772-4239-8428-6d602b37644b",
+            "Value": {
+                "id": "94aea830-1daa-4b0f-b25c-e53b0de93d68",
+                "resourcePath": "sounds\\Door_Open\\Door_Open.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -983,11 +1047,27 @@
             }
         },
         {
+            "Key": "bcebbb9f-8fe4-4b08-93f9-6046b0ef1410",
+            "Value": {
+                "id": "b457f745-1604-484a-a8e6-dfe3debf34c3",
+                "resourcePath": "datafiles_yy\\Enemy Death 1.m4a.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "bd644713-4cfc-45e8-a189-edd81e8209be",
             "Value": {
                 "id": "7b563909-f3b9-4a1a-b7ea-317a321de196",
                 "resourcePath": "views\\bd644713-4cfc-45e8-a189-edd81e8209be.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c09c3bac-832e-4eb0-a1d6-d43193fb02ee",
+            "Value": {
+                "id": "4be1be78-330d-47f2-8df6-90327998d398",
+                "resourcePath": "sounds\\Main_menu_3\\Main_menu_3.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1047,6 +1127,30 @@
             }
         },
         {
+            "Key": "c546008b-e122-4b44-a938-1b3d94baac3e",
+            "Value": {
+                "id": "c064634b-de92-486d-848d-73467afaa9a3",
+                "resourcePath": "datafiles_yy\\Enemy Death 6.m4a.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "c5bf25ad-a06a-4b20-b763-0d8fcd3ec78c",
+            "Value": {
+                "id": "7825a9d2-e93a-4c3b-8f3e-30f4ec9f79bb",
+                "resourcePath": "sounds\\Walk_9\\Walk_9.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c7967333-c2fa-4d86-97f1-b6d633593a76",
+            "Value": {
+                "id": "d33c5113-d5df-40ed-bf90-f0f15a24b4a6",
+                "resourcePath": "sounds\\Main_menu_switch_2\\Main_menu_switch_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "c7a8692e-69f3-4949-b472-1923b49aa1c5",
             "Value": {
                 "id": "cace50b8-6a7d-49ea-a874-81c81f9ed0fc",
@@ -1079,6 +1183,14 @@
             }
         },
         {
+            "Key": "cbb5b72b-a180-468c-aaad-0173471f4965",
+            "Value": {
+                "id": "d7083594-8d58-4963-ba2a-8242baf3642a",
+                "resourcePath": "datafiles_yy\\Walk 8.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "9515e42c-980d-4fcc-b278-02bfc984448b",
@@ -1092,14 +1204,6 @@
                 "id": "e30b4fd9-7cfc-4feb-ad31-c4027aa5716d",
                 "resourcePath": "rooms\\room1\\room1.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "ce29b508-47ab-44f2-83f6-fcaefadd8bd3",
-            "Value": {
-                "id": "6f614057-735d-4bce-a51e-69b35c4d18b8",
-                "resourcePath": "sounds\\NecroDeath_8_Inspired_by_MC\\NecroDeath_8_Inspired_by_MC.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -1119,11 +1223,27 @@
             }
         },
         {
+            "Key": "cf60d84c-f88e-4e6b-81c6-d94a3604f20d",
+            "Value": {
+                "id": "e11ec719-cbed-4b2c-a2f4-25548cdb66a6",
+                "resourcePath": "datafiles_yy\\Enemy Death 4.m4a.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "d11e7a16-df60-48fe-a00f-ff94fb770446",
             "Value": {
                 "id": "2efd81ef-74b6-4980-b5e3-22ee6bae3e1f",
                 "resourcePath": "sprites\\skeletonIdleSprite\\skeletonIdleSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d3cc77cb-60d1-495b-ae91-817fdb4bbffc",
+            "Value": {
+                "id": "0d6fd2b2-092d-4a79-b8c5-86c355260c1f",
+                "resourcePath": "sounds\\Coin_2\\Coin_2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1143,14 +1263,6 @@
             }
         },
         {
-            "Key": "d9d5eb7e-7eee-4945-b74a-792e426cf41a",
-            "Value": {
-                "id": "f5379386-1bb1-4fd5-a3d7-d0c347aea4b3",
-                "resourcePath": "sounds\\Player_Hit_5\\Player_Hit_5.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "d9e26bf9-9fb2-4d3b-b296-8a5a8d185d8a",
             "Value": {
                 "id": "03183a77-3865-4ded-b49d-f51891dff140",
@@ -1164,14 +1276,6 @@
                 "id": "f716968c-29af-4d66-89e1-916120c937ef",
                 "resourcePath": "sprites\\verticalExplosionSprite\\verticalExplosionSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "dd894a84-2f96-4296-8c04-8bd00bc722b7",
-            "Value": {
-                "id": "70ed1275-61ee-420e-a91e-44a7cc05dd72",
-                "resourcePath": "sounds\\Laugh_3\\Laugh_3.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -1191,11 +1295,27 @@
             }
         },
         {
+            "Key": "e0acd0a5-9e16-4f01-b320-6f291c5553d7",
+            "Value": {
+                "id": "530240fb-c52f-49d0-be4d-c3d2da00301e",
+                "resourcePath": "datafiles_yy\\Walk 6.wav.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "e0fd0e3f-2f5c-4658-8900-339052c87f21",
             "Value": {
                 "id": "a956d156-1e81-4720-8c42-5219230181bf",
                 "resourcePath": "sprites\\mushroomBigIdleSprite\\mushroomBigIdleSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1fabf07-4cfa-49f3-b778-be5b69475824",
+            "Value": {
+                "id": "f0c7e4dc-2287-4d5d-bbe4-cc21b93a9701",
+                "resourcePath": "views\\e1fabf07-4cfa-49f3-b778-be5b69475824.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1231,6 +1351,14 @@
             }
         },
         {
+            "Key": "e82776b8-3650-4eeb-af94-72bd925d170e",
+            "Value": {
+                "id": "bf9cc1d3-cd7d-4410-b45b-cc840e7f64bc",
+                "resourcePath": "sounds\\necromancerDeath10\\necromancerDeath10.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e8306abc-e44e-4a67-8e19-165b6257a64c",
             "Value": {
                 "id": "0779f763-240c-43c3-ae7c-2368bfa7cc73",
@@ -1239,19 +1367,19 @@
             }
         },
         {
+            "Key": "e8466349-6508-409a-856c-664e8793f6f4",
+            "Value": {
+                "id": "e6ccf8ca-d1a2-4104-b623-39891aa55845",
+                "resourcePath": "sounds\\Walk_3\\Walk_3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e8467f3c-1e65-4d7c-800e-5ca408fd66d6",
             "Value": {
                 "id": "5fa01279-3ecb-45f5-9f4c-8b3f6ba42c8b",
                 "resourcePath": "views\\e8467f3c-1e65-4d7c-800e-5ca408fd66d6.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "eb3d338c-8071-4eff-9c8c-dafa5b982baf",
-            "Value": {
-                "id": "0782652b-43c7-429b-9d7b-03eeecc0228d",
-                "resourcePath": "sounds\\Coin_1\\Coin_1.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -1268,6 +1396,14 @@
                 "id": "49b360e5-eb57-45e6-8604-385f72fb3343",
                 "resourcePath": "sprites\\lizardMaleIdleSprite\\lizardMaleIdleSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f17499b5-c2e5-45d1-a863-347a7d2708b6",
+            "Value": {
+                "id": "c02a7f95-f536-4f10-86b5-f95feb2c6a82",
+                "resourcePath": "datafiles_yy\\Walk 9.wav.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1311,14 +1447,6 @@
             }
         },
         {
-            "Key": "f714bee6-08fc-486a-85f0-36351950da65",
-            "Value": {
-                "id": "86954ccb-aba5-4f72-a4ab-1acb7ab1a29a",
-                "resourcePath": "sounds\\Player_Hit_6\\Player_Hit_6.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "f7284996-62c6-4fee-96d0-6d289bbacf33",
             "Value": {
                 "id": "52d1e836-9795-436c-a7f4-36039e211a0d",
@@ -1356,6 +1484,14 @@
                 "id": "692395f6-be59-4ea9-abee-2e09dc1ed31d",
                 "resourcePath": "sprites\\forestBGlayer5\\forestBGlayer5.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ff7a3cda-dadf-4f04-bbdb-b15d9c23a27d",
+            "Value": {
+                "id": "837605cf-27c1-45ea-b909-e12a6f9c8c7c",
+                "resourcePath": "sounds\\Door_Open_2\\Door_Open_2.yy",
+                "resourceType": "GMSound"
             }
         }
     ],

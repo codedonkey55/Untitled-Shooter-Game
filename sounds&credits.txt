@@ -1,27 +1,28 @@
-menu choose option
-menu change option
-player walking
+menu choose option  --done
+menu change option  --done
+player walking      --done
 player dodging
-player dying --done
-player hit --done
-gun shoot  --done
-gun empty
-bullet hit wall
+player dying        --done
+player hit          --done
+gun shoot           --done
+gun empty           --done
+bullet hit wall     --optional
 bullet bounce off shield
-enemy dying
-small enemy walking
-big enemy walking
-necromancer laugh --done
+enemy dying         --done
+small enemy walking --optional
+big enemy walking   --optional
+necromancer laugh   --done
 necromancer summon
-necromancer dying --done
+necromancer dying   --done
 spike trap activate
 icicle crash
-crate breaks
-explosions (2/5)
-coin receive --done
-lever switch
-door open
-door close
+crate breaks        --optional
+explosions          --(2/5)
+coin receive        --done
+lever switch        --optional
+door open           --done
+door close          --done
+babymushroomcry     --done
 
 
 

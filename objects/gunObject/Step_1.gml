@@ -17,6 +17,11 @@ if(mouse_check_button(mb_left)) && (firingdelay < 0) && (ammo > 0) && (allowShoo
 	audio_play_sound(gunShotSound, 2, false);
 }
 
+if(mouse_check_button(mb_left)) && (allowShooting) && (firingdelay < 0) && ammo < 1{
+	audio_play_sound(Gun_Empty, 3, false);
+	firingdelay = 10;
+}
+
 x -= lengthdir_x(recoil, image_angle);
 y -= lengthdir_y(recoil, image_angle);
 

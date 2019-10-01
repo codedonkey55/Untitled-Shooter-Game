@@ -6,3 +6,5 @@ for(var ii = 0; ii < instance_number(mushroomBabyObject); ii++){
 }
 instance_destroy(other);
 instance_destroy();
+audio_sound_pitch(mushroombaby, 1.4);
+audio_play_sound(mushroombaby, 3, false);

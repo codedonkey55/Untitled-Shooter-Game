@@ -15,7 +15,7 @@
                     "id": "c5d7c562-d8d1-426f-b35e-a4703607d9da",
                     "modelName": "GMAudioGroup",
                     "mvc": "1.0",
-                    "groupName": "generalAudio",
+                    "groupName": "playerAudio",
                     "targets": 461609314234257646
                 }
             },
@@ -26,6 +26,26 @@
                     "modelName": "GMAudioGroup",
                     "mvc": "1.0",
                     "groupName": "necromancerAudio",
+                    "targets": 461609314234257646
+                }
+            },
+            {
+                "Key": 3,
+                "Value": {
+                    "id": "78238e60-c56a-4a14-a711-b00fce5f5def",
+                    "modelName": "GMAudioGroup",
+                    "mvc": "1.0",
+                    "groupName": "objectAudio",
+                    "targets": 461609314234257646
+                }
+            },
+            {
+                "Key": 4,
+                "Value": {
+                    "id": "825f3269-1546-43b3-a8b6-e150a2fccc0a",
+                    "modelName": "GMAudioGroup",
+                    "mvc": "1.0",
+                    "groupName": "enemyAudio",
                     "targets": 461609314234257646
                 }
             }

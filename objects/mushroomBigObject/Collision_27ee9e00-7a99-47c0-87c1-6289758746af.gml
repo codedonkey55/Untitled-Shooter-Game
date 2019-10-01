@@ -10,4 +10,5 @@ if(hp < 1){
 	instance_destroy();
 	var cloud = instance_create_layer(x,y,"objectInstance",deathCloudObject);
 	cloud.coinAmount = 3;
+	audio_play_sound(Enemy_Death_6, 3, false);
 }

@@ -3,11 +3,13 @@
 menuX += (menuTargetX-menuX)/menuSpd;
 
 if(userInput.up){
+	audio_play_sound(Main_menu_switch_2, 2, false);
 	menuCursor++;
 	if(menuCursor > array_length_1d(menuOptions)-1){
 		menuCursor = 0;	
 	}
 }else if(userInput.down){
+	audio_play_sound(Main_menu_switch_2, 2, false);
 	menuCursor--;
 	if(menuCursor < 0){
 		menuCursor = array_length_1d(menuOptions)-1;	
@@ -21,11 +23,21 @@ if(userInput.up){
 var mouseXGUI = device_mouse_x_to_gui(0);
 var mouseYGUI = device_mouse_y_to_gui(0);
 if(mouseYGUI < menuY && mouseYGUI > menuTop && mouseXGUI > menuTargetX-200 && mouseXGUI < menuTargetX){
+	if(menuCursor != (menuY-mouseYGUI)div(menuItemHeight*1.5)){
+		audio_play_sound(Main_menu_switch_2, 2, false);
+	}
 	menuCursor = (menuY-mouseYGUI)div(menuItemHeight*1.5);
 	if(userInput.mbleft){
 		screenShake(4, 30);
 		menuTargetX = guiWidth+300;
 		menuCommitted = menuCursor;
+	}
+}
+
+if(menuCommitted != -1){
+	if(!hasPlayedSound){
+		audio_play_sound(Main_menu_3, 1, false);
+		hasPlayedSound = true;
 	}
 }
 

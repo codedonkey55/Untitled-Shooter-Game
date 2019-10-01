@@ -58,3 +58,4 @@ customEnd = false;
 hasPlayedHitSound = false;
 
 coinsGained = 0;
+hasPlayedWalkSound = false;

@@ -48,3 +48,19 @@ if(moveStraightToEndEvent){
 	}
 }
 
+if(sprite_index == lizardMaleRunSprite && path_position != 1){
+	if(image_index >= 2) && (image_index < 3) || (image_index >= 4){
+		hasPlayedWalkSound = false;
+	}
+	if(image_index >= 1) && (image_index < 2) && (!hasPlayedWalkSound){
+		var sound = choose(Walk_3, Walk_9);
+		audio_sound_pitch(sound, 0.2)
+		audio_play_sound(sound, 2, false);
+		hasPlayedWalkSound = true;
+	}else if(image_index >= 3) && (image_index < 4) && (!hasPlayedWalkSound){
+		var sound = choose(Walk_3, Walk_9);
+		audio_sound_pitch(sound, 0.2)
+		audio_play_sound(sound, 2, false);
+		hasPlayedWalkSound = true;
+	}
+}

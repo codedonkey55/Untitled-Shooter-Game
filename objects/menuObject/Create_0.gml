@@ -30,3 +30,4 @@ menuColor = c_gray;
 menuBGColor = c_black;
 
 userInput = instance_create_layer(0,0,"Instances", menuControllerObject);
+hasPlayedSound = false;
