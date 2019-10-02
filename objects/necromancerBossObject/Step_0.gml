@@ -13,6 +13,7 @@ if(path_position == 1){
 	if(instance_exists(enemySpawner)) && (!enemySpawner.isActivated){
 		enemySpawner.isActivated = true;
 		enemySpawner.spawn = true;
+		enemySpawner.sound = Necro_Summon;
 	}
 	if(instance_exists(skeletonObject)) && (skeletonObject.waitForEvent){
 		skeletonObject.waitForEvent = false;

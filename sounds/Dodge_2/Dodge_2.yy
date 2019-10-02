@@ -1,14 +1,14 @@
 {
-    "id": "12e3021d-86b3-4acb-809c-1b7b6d6e5e2f",
+    "id": "e6a6076d-675d-4e2c-aa76-a451477cf5aa",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "Door_Close",
-    "audioGroupGuid": "78238e60-c56a-4a14-a711-b00fce5f5def",
+    "name": "Dodge_2",
+    "audioGroupGuid": "c5d7c562-d8d1-426f-b35e-a4703607d9da",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.25
+    "volume": 0.5
 }

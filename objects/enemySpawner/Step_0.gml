@@ -19,5 +19,6 @@ if(isActivated){
 		instance_create_layer(irandom_range(x-40,x+40),irandom_range(y-40,y+40),"objectInstance",enemyToSpawn);
 		spawnCounter = 0;
 		counter = 0;
+		audio_play_sound(sound, 2, false);
 	}
 }

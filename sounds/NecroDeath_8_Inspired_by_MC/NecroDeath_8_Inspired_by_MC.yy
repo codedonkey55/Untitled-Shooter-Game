@@ -1,9 +1,9 @@
 {
-    "id": "12e3021d-86b3-4acb-809c-1b7b6d6e5e2f",
+    "id": "1281879c-9b29-42e0-bb92-1a0192f68b06",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "Door_Close",
-    "audioGroupGuid": "78238e60-c56a-4a14-a711-b00fce5f5def",
+    "name": "NecroDeath_8_Inspired_by_MC",
+    "audioGroupGuid": "825f3269-1546-43b3-a8b6-e150a2fccc0a",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,

@@ -3,3 +3,4 @@
 isOn *= -1
 image_xscale = isOn;
 instance_destroy(other);
+audio_play_sound(Lever_Switch, 2, false);

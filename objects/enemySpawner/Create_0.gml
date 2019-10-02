@@ -4,3 +4,4 @@ counter = 0;
 spawnCounter = 0;
 spawn = false;
 spawnQueue = 0;
+sound = Necro_Summon;

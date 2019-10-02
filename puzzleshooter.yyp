@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1281879c-9b29-42e0-bb92-1a0192f68b06",
+            "Value": {
+                "id": "8034b7ee-0657-4461-aae7-f20d93dbe8c5",
+                "resourcePath": "sounds\\NecroDeath_8_Inspired_by_MC\\NecroDeath_8_Inspired_by_MC.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "12e3021d-86b3-4acb-809c-1b7b6d6e5e2f",
             "Value": {
                 "id": "19463a2d-6a85-4845-9c54-e95981e498b2",
@@ -463,6 +471,14 @@
             }
         },
         {
+            "Key": "578320b7-33ff-4a23-8a60-697864de32a7",
+            "Value": {
+                "id": "cf2243e6-9da0-4d4c-b864-0681678fc30c",
+                "resourcePath": "sounds\\Necro_Summon\\Necro_Summon.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "57984270-1c49-41b9-a240-ca075153ca41",
             "Value": {
                 "id": "88692567-560b-46bf-b574-2ad11be3d522",
@@ -759,6 +775,14 @@
             }
         },
         {
+            "Key": "8d5de95f-05eb-48b2-9871-718b157ab66f",
+            "Value": {
+                "id": "3c23cc72-97dd-4cee-aebe-9c2390fad00f",
+                "resourcePath": "sounds\\Lever_Switch\\Lever_Switch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8db066e8-dcb5-4939-a3be-a7b147bc4cae",
             "Value": {
                 "id": "89f41fbf-c399-482f-8bd8-aba3187baece",
@@ -836,6 +860,14 @@
                 "id": "0107abb8-8e40-4aa6-830e-88a80f712eaa",
                 "resourcePath": "views\\9bcd8c5e-d96e-4bd7-99bf-9b353d45a2c2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9cbe04e3-552a-49f1-88cc-3ab8d8a7a7c1",
+            "Value": {
+                "id": "6d26fbf4-f401-496b-9d2f-08a82e67ba7a",
+                "resourcePath": "sounds\\spiketrap\\spiketrap.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -940,14 +972,6 @@
                 "id": "e5be4c5a-6790-4ef3-812c-439deddc4587",
                 "resourcePath": "sprites\\fireballSprite\\fireballSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "b1986946-6772-4239-8428-6d602b37644b",
-            "Value": {
-                "id": "94aea830-1daa-4b0f-b25c-e53b0de93d68",
-                "resourcePath": "sounds\\Door_Open\\Door_Open.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -1167,6 +1191,14 @@
             }
         },
         {
+            "Key": "ca9dc9e5-c3c9-4a09-8a6a-d8842a4894a7",
+            "Value": {
+                "id": "3e59a650-90a4-4a6f-8a50-8092c516127d",
+                "resourcePath": "sounds\\Shield_Hit\\Shield_Hit.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "cb9a0dc6-29ae-404a-9e3f-ddb9031ea687",
             "Value": {
                 "id": "ee146696-7051-4369-9e00-a46f79f69c3d",
@@ -1319,6 +1351,14 @@
             }
         },
         {
+            "Key": "e6a6076d-675d-4e2c-aa76-a451477cf5aa",
+            "Value": {
+                "id": "ab6c38db-c42b-41c9-bfe6-6a4deb4ef5fa",
+                "resourcePath": "sounds\\Dodge_2\\Dodge_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "e6af24a3-c49c-4f69-96b0-dffbf7670f16",
             "Value": {
                 "id": "5c1bc35f-18f9-456a-bbe1-7f2506f8ba2c",
@@ -1396,6 +1436,14 @@
                 "id": "49b360e5-eb57-45e6-8604-385f72fb3343",
                 "resourcePath": "sprites\\lizardMaleIdleSprite\\lizardMaleIdleSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f190e09e-fc75-4445-a594-7ea6cd568e6e",
+            "Value": {
+                "id": "bb018f13-3bc1-454d-84d8-8354a60fbaa5",
+                "resourcePath": "sounds\\Ice_smash\\Ice_smash.yy",
+                "resourceType": "GMSound"
             }
         },
         {

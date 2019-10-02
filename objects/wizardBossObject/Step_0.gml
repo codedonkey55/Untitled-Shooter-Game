@@ -33,14 +33,14 @@ if(attackDelay < 1){
 	}
 	waveAttackCount--;
 	if(waveAttackCount < 1){
-		attackDelay = 200;
+		attackDelay = 250;
 		chosenAttack = irandom_range(0,2);
 		waveAttackCount = waveAttackAmount;
 	}else{
-		attackDelay = 20;
+		attackDelay = 10;
 	}
-	iceBulletDelay = 35;
+	iceBulletDelay = 60;
 }else if(iceBulletDelay < 1){
-	iceBulletDelay = 35;
+	iceBulletDelay = 60;
 	iceBallAttack(x,y,playerObject.x, playerObject.y);
 }

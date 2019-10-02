@@ -23,4 +23,5 @@ if(mouse_check_button(mb_right)) && (allowDodging) && (dodgeAmount > 0) && (dodg
 		dodgeAmount--;
 	}
 	isDodging = true;
+	audio_play_sound(Dodge_2, 2, false);
 }
