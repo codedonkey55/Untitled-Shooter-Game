@@ -63,11 +63,11 @@
             }
         },
         {
-            "Key": "08c4a44a-8c7a-48c5-b957-b181cd4f702e",
+            "Key": "06a439a5-1a09-48bc-837b-d3ab7ca3758e",
             "Value": {
-                "id": "98dc1c9a-70ae-4306-91df-7fe2a49034d6",
-                "resourcePath": "datafiles_yy\\Enemy Death 3.m4a.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "f573e878-fc00-45d4-bcc3-c565f85aaf28",
+                "resourcePath": "objects\\wizardBossObject\\wizardBossObject.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "1335b400-a9f9-4541-a243-80858214c7b8",
-            "Value": {
-                "id": "38fc1e2b-ccdf-4692-9741-5811ab3d3e86",
-                "resourcePath": "datafiles_yy\\Main menu switch 2.wav.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "13d68ba5-c5d8-4b14-855f-154c3f54e9d9",
             "Value": {
                 "id": "c5b3e60e-e5c8-40ce-99f4-43c3710200a6",
@@ -124,14 +116,6 @@
                 "id": "a0101865-de41-489f-afe0-70a82aec0604",
                 "resourcePath": "views\\15f364dd-0250-4aaa-8895-e667546f2ae1.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "16127c02-2aa8-4df8-8e53-0f897e0e9a3d",
-            "Value": {
-                "id": "0eb0e2b3-1875-4f76-afcd-acbd1bfd8711",
-                "resourcePath": "datafiles_yy\\Walk 5.wav.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -239,14 +223,6 @@
             }
         },
         {
-            "Key": "2e8cac54-7a1b-4f1d-aa18-995265ab0876",
-            "Value": {
-                "id": "0ce54041-1dcd-4b47-b043-265a92b4367d",
-                "resourcePath": "datafiles_yy\\Enemy Death 7.m4a.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "2f3795ae-7788-4c2f-8b98-7272a5960a1b",
             "Value": {
                 "id": "60c8752a-47f6-48b9-b98c-32f6c6ba2fe5",
@@ -276,14 +252,6 @@
                 "id": "460bd911-3239-4be0-a737-133c5b0b0fd1",
                 "resourcePath": "rooms\\room3\\room3.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "3097ca82-ad29-433d-b6d8-476a600b586c",
-            "Value": {
-                "id": "66e8ff02-7536-45a5-8e02-b52b0cb84215",
-                "resourcePath": "datafiles_yy\\Main menu 1.wav.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -415,14 +383,6 @@
             }
         },
         {
-            "Key": "49c49fbc-66e6-4344-b971-cd423e0449d8",
-            "Value": {
-                "id": "a9103bc2-7512-4d95-ae53-d36b094ac4e4",
-                "resourcePath": "datafiles_yy\\Walk 7.wav.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "4c3bc0ce-80fa-423d-a336-2c00d915460a",
             "Value": {
                 "id": "aa2cdcb7-353b-4962-9b97-1dfaba257ed7",
@@ -471,6 +431,14 @@
             }
         },
         {
+            "Key": "53a357dc-fc07-4e68-a0a5-85fadbfac517",
+            "Value": {
+                "id": "b8df701f-8845-4bc7-947a-768b15d184a5",
+                "resourcePath": "sprites\\TutorialTrapTextSprite\\TutorialTrapTextSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54ddc6a3-181a-4a44-8949-79e94e5a3496",
             "Value": {
                 "id": "c0cd21eb-3ccd-4279-ad64-f82a1a1c7de6",
@@ -503,18 +471,18 @@
             }
         },
         {
-            "Key": "58674402-1358-42a1-b939-80a14d4f2dac",
-            "Value": {
-                "id": "9ebe4922-48d1-4a82-9910-f1b7cfca0e18",
-                "resourcePath": "datafiles_yy\\Main menu 2.wav.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "5a5e98a6-63b5-4006-bd47-ff27fc7702c2",
             "Value": {
                 "id": "d5d8d3fb-6c89-4ae4-89aa-434ad110e60f",
                 "resourcePath": "views\\5a5e98a6-63b5-4006-bd47-ff27fc7702c2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5aa4d114-e73c-489f-b4cb-ba5b10e7f336",
+            "Value": {
+                "id": "74515ac5-327e-4bb1-9deb-aae872146bcd",
+                "resourcePath": "views\\5aa4d114-e73c-489f-b4cb-ba5b10e7f336.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -551,11 +519,11 @@
             }
         },
         {
-            "Key": "63235796-d0df-4f52-95e8-5656556870b3",
+            "Key": "629545fc-a093-4cf2-9066-fc5c1de69780",
             "Value": {
-                "id": "94557175-f0a3-4a21-ae0f-2c7dd06fa21e",
-                "resourcePath": "datafiles_yy\\Walk 3.wav.yy",
-                "resourceType": "GMIncludedFile"
+                "id": "e6fddb83-3cae-4d0f-bb77-b991d3431675",
+                "resourcePath": "sprites\\TutorialBossTextSprite\\TutorialBossTextSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -570,16 +538,8 @@
             "Key": "64c152b6-be8b-4812-a66e-18e7cd2a2b9c",
             "Value": {
                 "id": "79bf8c59-e3bc-4b98-8dd6-3712fd7bba07",
-                "resourcePath": "sprites\\tutorial\\tutorial.yy",
+                "resourcePath": "sprites\\TutorialTextSprite\\TutorialTextSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "6943e7c1-dd4d-4d8f-b125-6625aa9ebdab",
-            "Value": {
-                "id": "a48ccc6e-e4d9-4c9a-b80a-e80a54105629",
-                "resourcePath": "datafiles_yy\\Main menu switch.wav.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -588,6 +548,14 @@
                 "id": "af61c4ab-7e1e-4754-a900-03853d704478",
                 "resourcePath": "sprites\\orcSpriteIdle\\orcSpriteIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6db5f4b9-41be-44f0-bc72-1830ed62b832",
+            "Value": {
+                "id": "f2db0558-66ab-43fb-b734-4aad7a1a6796",
+                "resourcePath": "scripts\\iceBallRowAttack\\iceBallRowAttack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -623,18 +591,18 @@
             }
         },
         {
-            "Key": "72eaafe1-50f9-463a-9d71-c115d37c1f5d",
-            "Value": {
-                "id": "60722af6-0092-4d40-811a-7709fcdfc996",
-                "resourcePath": "datafiles_yy\\Main menu switch 3.wav.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "74f0f02a-1eaf-4a24-9631-a251ce37bb6c",
             "Value": {
                 "id": "2e1250df-9093-4b50-af5e-6c7fa6421321",
                 "resourcePath": "sprites\\startSprite\\startSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "74f5caf1-b322-4553-989c-a429d18be8ce",
+            "Value": {
+                "id": "7966c0e9-52e6-4d5b-b8f5-a64541ef06d5",
+                "resourcePath": "sprites\\TutorialEnemiesTextSprite\\TutorialEnemiesTextSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -652,6 +620,14 @@
                 "id": "414eca84-7b7e-4928-ade4-ee9a1f245dda",
                 "resourcePath": "objects\\deathCloudObject\\deathCloudObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "790389a8-7130-4de1-8364-b92492aff70b",
+            "Value": {
+                "id": "e50c66a5-2a1b-4043-a008-40b8f39c9997",
+                "resourcePath": "sprites\\wizardIdleSprite\\wizardIdleSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -719,11 +695,27 @@
             }
         },
         {
+            "Key": "8199c5a8-506e-4c5e-a4d6-8a6107999d03",
+            "Value": {
+                "id": "59d333c5-af95-4e90-81f0-b73468b41e35",
+                "resourcePath": "paths\\level5\\level5.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "81d27cee-04a0-42a8-b04d-e914dd9a615a",
             "Value": {
                 "id": "ea717811-9f4a-4d51-9818-277105bf299c",
                 "resourcePath": "sprites\\doorSprite\\doorSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "82edcbc8-9f12-42ac-803d-4d74c95fd75a",
+            "Value": {
+                "id": "7dfb6c37-118e-4acb-95c6-4e40da048a39",
+                "resourcePath": "scripts\\iceBallCircleAttack\\iceBallCircleAttack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -759,6 +751,14 @@
             }
         },
         {
+            "Key": "8b45c6e0-5f83-46d3-8048-cf6e9bbcf622",
+            "Value": {
+                "id": "dc3fec9b-a298-49b6-bf3f-9b842acb8e43",
+                "resourcePath": "paths\\level5BossPath\\level5BossPath.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "8db066e8-dcb5-4939-a3be-a7b147bc4cae",
             "Value": {
                 "id": "89f41fbf-c399-482f-8bd8-aba3187baece",
@@ -775,19 +775,19 @@
             }
         },
         {
-            "Key": "8f2a491a-9e26-48a0-bb8c-6a86a9d385f7",
-            "Value": {
-                "id": "d7cf6b91-c78a-4eac-983d-674efa687e1b",
-                "resourcePath": "datafiles_yy\\Main menu 3.wav.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "91c3341e-beb3-48ee-bbe4-f967a6947590",
             "Value": {
                 "id": "cea886ea-7a9a-47a1-b37f-f535f8ffbadc",
                 "resourcePath": "objects\\doorObject\\doorObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "92cb8b41-74d6-4a06-91aa-44c4876a5697",
+            "Value": {
+                "id": "a1cea118-83a8-4aa9-a5ed-107e1281af3e",
+                "resourcePath": "scripts\\iceBallAttack\\iceBallAttack.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -804,14 +804,6 @@
                 "id": "3d64d209-4064-4a09-a5ff-841979340de4",
                 "resourcePath": "paths\\menu1\\menu1.yy",
                 "resourceType": "GMPath"
-            }
-        },
-        {
-            "Key": "94c2621c-ca4f-4928-ba94-0f2791391cbf",
-            "Value": {
-                "id": "5b904dd8-1145-463b-9c57-459f08e8b94d",
-                "resourcePath": "datafiles_yy\\Gun Empty.wav.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -839,14 +831,6 @@
             }
         },
         {
-            "Key": "99d470c3-42f0-4593-8f0b-694177dc3087",
-            "Value": {
-                "id": "cca64bca-06bd-4108-8dd0-e24865520507",
-                "resourcePath": "datafiles_yy\\Walk 1.wav.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "9bcd8c5e-d96e-4bd7-99bf-9b353d45a2c2",
             "Value": {
                 "id": "0107abb8-8e40-4aa6-830e-88a80f712eaa",
@@ -871,19 +855,19 @@
             }
         },
         {
+            "Key": "9fccff6c-abef-493b-b105-c436f3b63f63",
+            "Value": {
+                "id": "fe8c3450-80ed-4cad-b753-4f772bc37822",
+                "resourcePath": "scripts\\createIciclesAttack\\createIciclesAttack.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a172a016-b560-4492-9112-12defd1d10e5",
             "Value": {
                 "id": "08cb01e2-fd85-4836-8d5d-b632109db071",
                 "resourcePath": "objects\\collisionObject\\collisionObject.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "a18261a4-7a9b-49cf-af5e-a929c61caf0d",
-            "Value": {
-                "id": "bc1f003f-b8ed-428a-a2fc-95f9ae0cd6ca",
-                "resourcePath": "datafiles_yy\\Enemy Death 2.m4a.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -975,6 +959,14 @@
             }
         },
         {
+            "Key": "b4337ff7-111f-44e3-b7e3-6b741d838ce3",
+            "Value": {
+                "id": "a0016462-11fc-4649-af43-d63ab36594c7",
+                "resourcePath": "sprites\\wizardRunSprite\\wizardRunSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b447212b-5761-4fbe-8433-86997884cdef",
             "Value": {
                 "id": "f81cd945-ef2a-4471-ba47-c27891d3579e",
@@ -1044,14 +1036,6 @@
                 "id": "aa51a892-7378-442c-9367-3f54eb4c0fce",
                 "resourcePath": "sprites\\forestBGlayer10\\forestBGlayer10.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "bcebbb9f-8fe4-4b08-93f9-6046b0ef1410",
-            "Value": {
-                "id": "b457f745-1604-484a-a8e6-dfe3debf34c3",
-                "resourcePath": "datafiles_yy\\Enemy Death 1.m4a.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1127,19 +1111,19 @@
             }
         },
         {
-            "Key": "c546008b-e122-4b44-a938-1b3d94baac3e",
-            "Value": {
-                "id": "c064634b-de92-486d-848d-73467afaa9a3",
-                "resourcePath": "datafiles_yy\\Enemy Death 6.m4a.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "c5bf25ad-a06a-4b20-b763-0d8fcd3ec78c",
             "Value": {
                 "id": "7825a9d2-e93a-4c3b-8f3e-30f4ec9f79bb",
                 "resourcePath": "sounds\\Walk_9\\Walk_9.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c706cdea-4e0f-489d-99b5-921a66c4165d",
+            "Value": {
+                "id": "c43e4866-0fbc-422f-af41-341ee0c01bc8",
+                "resourcePath": "sprites\\iceBallSprite\\iceBallSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1175,19 +1159,19 @@
             }
         },
         {
+            "Key": "c9b3fd50-ac2e-4d95-b656-c64200b8e4f3",
+            "Value": {
+                "id": "3cea182d-33d5-4ed2-afcb-4c36391f6b59",
+                "resourcePath": "scripts\\bossHealthBar\\bossHealthBar.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cb9a0dc6-29ae-404a-9e3f-ddb9031ea687",
             "Value": {
                 "id": "ee146696-7051-4369-9e00-a46f79f69c3d",
                 "resourcePath": "objects\\crateObject\\crateObject.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "cbb5b72b-a180-468c-aaad-0173471f4965",
-            "Value": {
-                "id": "d7083594-8d58-4963-ba2a-8242baf3642a",
-                "resourcePath": "datafiles_yy\\Walk 8.wav.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1223,19 +1207,27 @@
             }
         },
         {
-            "Key": "cf60d84c-f88e-4e6b-81c6-d94a3604f20d",
-            "Value": {
-                "id": "e11ec719-cbed-4b2c-a2f4-25548cdb66a6",
-                "resourcePath": "datafiles_yy\\Enemy Death 4.m4a.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "d11e7a16-df60-48fe-a00f-ff94fb770446",
             "Value": {
                 "id": "2efd81ef-74b6-4980-b5e3-22ee6bae3e1f",
                 "resourcePath": "sprites\\skeletonIdleSprite\\skeletonIdleSprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d2a58062-808d-4137-af6d-ac0e7ddb1675",
+            "Value": {
+                "id": "b508ecab-7b53-43a5-87ba-db28f68695ce",
+                "resourcePath": "objects\\iceBulletObject\\iceBulletObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d3844b56-866b-4d35-b862-3cfa79d4a7a8",
+            "Value": {
+                "id": "80215fd8-ad22-47f9-9569-40a9dacb244a",
+                "resourcePath": "rooms\\room8\\room8.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1295,14 +1287,6 @@
             }
         },
         {
-            "Key": "e0acd0a5-9e16-4f01-b320-6f291c5553d7",
-            "Value": {
-                "id": "530240fb-c52f-49d0-be4d-c3d2da00301e",
-                "resourcePath": "datafiles_yy\\Walk 6.wav.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "e0fd0e3f-2f5c-4658-8900-339052c87f21",
             "Value": {
                 "id": "a956d156-1e81-4720-8c42-5219230181bf",
@@ -1338,7 +1322,15 @@
             "Key": "e6af24a3-c49c-4f69-96b0-dffbf7670f16",
             "Value": {
                 "id": "5c1bc35f-18f9-456a-bbe1-7f2506f8ba2c",
-                "resourcePath": "sprites\\title\\title.yy",
+                "resourcePath": "sprites\\TitleTextSprite\\TitleTextSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e77551db-6f70-4e9a-8f85-e6173232f4e5",
+            "Value": {
+                "id": "812d0dae-0378-4944-afe6-14289b893d60",
+                "resourcePath": "sprites\\TutorialIcicleTextSprite\\TutorialIcicleTextSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1348,6 +1340,14 @@
                 "id": "182ebe99-6a99-4b41-aa0f-05a4ea5ea52e",
                 "resourcePath": "scripts\\drawSetText\\drawSetText.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e80b9fb4-ff61-4746-9924-e2bc348c40f4",
+            "Value": {
+                "id": "f41167ff-d406-4433-8198-fad1d6db0e91",
+                "resourcePath": "sprites\\TutorialLeverTextSprite\\TutorialLeverTextSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1396,14 +1396,6 @@
                 "id": "49b360e5-eb57-45e6-8604-385f72fb3343",
                 "resourcePath": "sprites\\lizardMaleIdleSprite\\lizardMaleIdleSprite.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f17499b5-c2e5-45d1-a863-347a7d2708b6",
-            "Value": {
-                "id": "c02a7f95-f536-4f10-86b5-f95feb2c6a82",
-                "resourcePath": "datafiles_yy\\Walk 9.wav.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1458,7 +1450,7 @@
             "Key": "f74e24cc-dadb-42a5-8c1a-48d4a6bfb127",
             "Value": {
                 "id": "e168c086-2d19-4e0e-aaff-e49b3ba50dd1",
-                "resourcePath": "sprites\\endGame\\endGame.yy",
+                "resourcePath": "sprites\\TutorialEndGameTextSprite\\TutorialEndGameTextSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1500,7 +1492,12 @@
         "60787a9d-9a52-4ec3-9e1c-2904d4dc79d8",
         "f504321d-4c6c-48da-9268-343fc5d4c518",
         "e799a336-cc1e-446f-ac1a-169272c98978",
-        "489110e7-3fa8-4dcc-a576-c1ec8f2ee119"
+        "489110e7-3fa8-4dcc-a576-c1ec8f2ee119",
+        "c9b3fd50-ac2e-4d95-b656-c64200b8e4f3",
+        "92cb8b41-74d6-4a06-91aa-44c4876a5697",
+        "6db5f4b9-41be-44f0-bc72-1830ed62b832",
+        "82edcbc8-9f12-42ac-803d-4d74c95fd75a",
+        "9fccff6c-abef-493b-b105-c436f3b63f63"
     ],
     "tutorial": ""
 }

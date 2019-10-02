@@ -22,6 +22,7 @@ enum rooms {
 	room5,
 	room6,
 	room7,
+	room8,
 	theEnd,
 }
 
@@ -32,6 +33,7 @@ path_array[rooms.room4] = level2;
 path_array[rooms.room5] = level2;
 path_array[rooms.room6] = level3;
 path_array[rooms.room7] = level4;
+path_array[rooms.room8] = level5;
 
 pathSpeed = 2;
 pathAction = path_action_stop;
