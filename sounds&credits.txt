@@ -1,43 +1,21 @@
-menu choose option  --done
-menu change option  --done
-player walking      --done
-player dodging
-player dying        --done
-player hit          --done
-gun shoot           --done
-gun empty           --done
 bullet hit wall     --optional
-bullet bounce off shield
-enemy dying         --done
 small enemy walking --optional
 big enemy walking   --optional
-necromancer laugh   --done
-necromancer summon
-necromancer dying   --done
-spike trap activate
-icicle crash
 crate breaks        --optional
 explosions          --(2/5)
-coin receive        --done
 lever switch        --optional
-door open           --done
-door close          --done
-babymushroomcry     --done
-
-
-
 
 
 background music
 background sounds
 
 
-
-0x72 dungeon   --tileset https://0x72.itch.io/dungeontileset-ii
+0x72           --dungeon tileset https://0x72.itch.io/dungeontileset-ii
 edermunizz     --pixel forest https://edermunizz.itch.io/free-pixel-art-forest
 grumpydiamond  --water tiles https://grumpydiamond.itch.io/water-tiles
 untiedgames    --explosions https://untiedgames.itch.io/five-free-pixel-explosions
 stealthix      --fireballs https://stealthix.itch.io/animated-fires
-shaun spalding
-heartbeast
-plaguechamp
+shaun spalding --tutorials
+heartbeast     --tutorials
+plaguechamp    --sound effects
+raptah         --video

@@ -831,6 +831,14 @@
             }
         },
         {
+            "Key": "94e90fae-ff32-4d1f-838c-ed250de1023d",
+            "Value": {
+                "id": "64cd78c4-8db2-472f-87b3-9a41dcaa8e9f",
+                "resourcePath": "sprites\\CreatedByTextSprite\\CreatedByTextSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "95995b34-ab61-46dc-9103-b2a39ceef4ae",
             "Value": {
                 "id": "13399f42-13e9-43b2-9fe6-6af792658199",
@@ -915,6 +923,14 @@
             "Value": {
                 "id": "25972563-b11f-4ffc-8b1b-9409cc572639",
                 "resourcePath": "sprites\\playerGunSprite\\playerGunSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a68ea326-20da-4228-b7da-127339edbe26",
+            "Value": {
+                "id": "e5875767-0b1e-44bb-90d0-e360599b9bb7",
+                "resourcePath": "sprites\\DemoTrailerTextSprite\\DemoTrailerTextSprite.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1276,6 +1292,14 @@
                 "id": "3c5001aa-d5f6-4661-a6e2-b370957e58ca",
                 "resourcePath": "objects\\coinObject\\coinObject.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d5edb0f8-dd12-4e05-9773-64122b287ddd",
+            "Value": {
+                "id": "625fd512-be4c-4741-abb9-222bcb8568b4",
+                "resourcePath": "sprites\\SoundEffectsTextSprite\\SoundEffectsTextSprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
